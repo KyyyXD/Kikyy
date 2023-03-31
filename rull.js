@@ -48,20 +48,20 @@ global.media = 'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg'
 global.wame = 'https://wa.me/message/'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['62', '𝕽𝖚𝖑𝖑  ꩜', true]
+['6281351692548', 'ℑ𝔫𝔱𝔯𝔬𝔳𝔢𝔯𝔱🔖  ꩜', true]
 ]
 global.mods = []
 global.prems = fs.readFileSync('./rul-settings/premium.json')
-global.nomorbot = '' //pasang no bot lo 
-global.nomorown = '' //pasang no own lo
+global.nomorbot = '6281779115749' //pasang no bot lo 
+global.nomorown = '6281351692548' //pasang no own lo
 global.nomorown1 = ''
 global.nomorown2 = ''
 global.nomorwa = '0'
-global.nameown = '𝕽𝖚𝖑𝖑'
-global.gcname = '𝗟𝗲𝗴𝗮𝗰𝘆 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Dibuat Oleh 𝕽𝖚𝖑𝖑'
-global.namebot = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗'
-global.packname2 = '𝗟𝗲𝗴𝗮𝗰𝘆 -𝗠𝗗 ꩜'
+global.nameown = 'Kikyy'
+global.gcname = 'FADLAN 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
+global.author = 'Dibuat Oleh Kikyy'
+global.namebot = 'FADLAN -𝗠𝗗'
+global.packname2 = 'FADLAN -𝗠𝗗 ꩜'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ API AI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺ 
 /*Lolhuman*/
